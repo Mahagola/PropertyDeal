@@ -60,7 +60,7 @@ a{
 .signin-bt{
     margin: auto;
     box-sizing: border-box;
-    background-color: #f84545;
+    background-color: #4cc440;
     color: white;
     font: 17px 'Josefin Sans', sans-serif;
     padding: 7px;
@@ -72,7 +72,7 @@ a{
 
 .signin-bt:hover{
     border: 1px solid;
-    box-shadow:  0 0 5px 2px #ff5555;
+    box-shadow:  0 0 5px 2px #bfff94;
 }
 
 .search-img{
